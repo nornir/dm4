@@ -4,7 +4,7 @@ dm4
 
 A simple pure Python file reader for Digital Micrograph's DM4 file format.
 
-This package would not have been possible without the documentation provided by Dr Chris Boothroyd at http://www.er-c.org/cbb/info/dmformat/ Thank you.
+This package would not have been possible without the documentation provided by Dr Chris Boothroyd at `<https://personal.ntu.edu.sg/cbb/info/dmformat/index.html>`_. Thank you!
 
 ############
 Installation
