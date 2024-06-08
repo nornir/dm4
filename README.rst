@@ -32,7 +32,7 @@ Install the dm4 package along with dependencies for the example::
 
 Create a Python script, example_dm4.py, with the following content::
 
-.. code-block:: python
+.. code:: python
 
    import dm4
    import numpy as np
