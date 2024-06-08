@@ -22,6 +22,9 @@ dynamic = ["version", "description"]
 [project.optional-dependencies]
 test = [
     "numpy",
+]
+example = [
+    "numpy",
     "Pillow"
 ]
 
