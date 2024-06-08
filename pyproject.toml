@@ -23,6 +23,10 @@ dynamic = ["version", "description"]
 test = [
     "numpy",
 ]
+example = [
+    "numpy",
+    "Pillow"
+]
 
 [project.urls]
 Home = "https://github.com/nornir/dm4"
